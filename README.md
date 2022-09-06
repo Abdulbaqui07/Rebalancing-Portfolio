@@ -14,8 +14,6 @@ In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID f
 
 ![image](https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png)
 
-![image](https://user-images.githubusercontent.com/87430736/188583275-551db963-60ba-42c6-9051-8195f9967048.png)
-
 ![image](https://user-images.githubusercontent.com/87430736/188580534-f9e49344-4d59-4b5d-8456-975aeb69377b.png)
 
 3. Add Authentication
@@ -31,5 +29,8 @@ Visit the webpage and click Login. Your Metamask will popup and ask you to sign 
 
 6. See all User Assets in the Moralis Database
 As soon as the user logs in Moralis fetches all the on-chain data about that user from all chains and puts it into the Moralis Database. To see the Moralis Database go to your server and click on Dashboard.
+
 ![image](https://user-images.githubusercontent.com/87430736/188581465-3338ed80-4c0e-40c7-91f6-c43c91345d03.png)
+![image](https://user-images.githubusercontent.com/87430736/188584463-ae5d1068-4867-4a6f-8c3b-d99330305e21.png)
+
 ![image](https://user-images.githubusercontent.com/87430736/188581730-fd2caafb-1cfb-4c0e-806d-725801cdc073.png)

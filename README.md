@@ -12,6 +12,10 @@ Moralis.start({ serverUrl, appId });
 
 In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID from your Moralis Dashboard. Go to your Moralis Server Details:
 
+<p align="center">
+    <img width="200" src="![image](https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png)" alt="Material Bread logo">
+</p>
+
 ![image](https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png)
 
 ![image](https://user-images.githubusercontent.com/87430736/188580534-f9e49344-4d59-4b5d-8456-975aeb69377b.png)
@@ -34,3 +38,11 @@ As soon as the user logs in Moralis fetches all the on-chain data about that use
 ![image](https://user-images.githubusercontent.com/87430736/188584463-ae5d1068-4867-4a6f-8c3b-d99330305e21.png)
 
 ![image](https://user-images.githubusercontent.com/87430736/188581730-fd2caafb-1cfb-4c0e-806d-725801cdc073.png)
+
+Final view:
+
+![image](https://user-images.githubusercontent.com/87430736/188585097-bac8991b-ccfb-48ec-95b2-66badff6c2d5.png)
+
+![image](https://user-images.githubusercontent.com/87430736/188585399-ed485635-6801-451f-9109-b55695751f73.png)
+
+

@@ -5,10 +5,14 @@ The first step is to create an empty page we call index.html and main.js in the 
 
 2. Initialize the SDK
 Initialize your server using Moralis.start() function
+
+```
+main.js
 /* Moralis init code */
 const serverUrl = "https://xxxxx/server";
 const appId = "YOUR_APP_ID";
 Moralis.start({ serverUrl, appId });
+```
 
 In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID from your Moralis Dashboard. Go to your Moralis Server Details:
 

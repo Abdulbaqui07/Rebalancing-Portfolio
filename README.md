@@ -33,9 +33,6 @@ Refer code from main.js
 Run index.html on localhost as a web page. The easiest way is by using the live server extension Visual Studio Code. Just right click on index.html and select Open with Live Server.
 
 <p align="center">
-    <img src="https://user-images.githubusercontent.com/87430736/188588309-7b9da421-9415-49f6-b3d2-97cad45ec667.png" alt="Open Live Server">
-</p>
-<p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188593180-63dd2470-c076-4366-8257-245e9ebd4341.png" alt="Open Live Server">
 </p>
 

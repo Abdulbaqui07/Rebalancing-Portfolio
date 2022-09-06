@@ -1,6 +1,6 @@
 /* Moralis init code */
-const serverUrl = "https://1kdbjhqao6ba.usemoralis.com:2053/server";
-const appId = "8TtwKmJYpEBBfV2P6KLteqzGWgvPC0aLdmPFnFc1";
+const serverUrl = "https://xxxxx/server";
+const appId = "YOUR_APP_ID";
 Moralis.start({ serverUrl, appId });
 
 /* Authentication code */

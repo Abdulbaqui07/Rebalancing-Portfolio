@@ -35,16 +35,23 @@ Run index.html on localhost as a web page. The easiest way is by using the live 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188593180-63dd2470-c076-4366-8257-245e9ebd4341.png" alt="Open Live Server">
 </p>
+<p align="center">
+    Click on Open with Live Server.
+</p>
 
 5. Login with Metamask and switch accounts to merge
 Visit the webpage and click Login. Your Metamask will popup and ask you to sign in.
 
 6. See all User Assets in the Moralis Database
-As soon as the user logs in Moralis fetches all the on-chain data about that user from all chains and puts it into the Moralis Database. To see the Moralis Database go to your server and click on Dashboard.
+As soon as the user logs in Moralis fetches all the on-chain data about that user from all chains and puts it into the Moralis Database.
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188581465-3338ed80-4c0e-40c7-91f6-c43c91345d03.png" alt="Open Live Server">
-    <br>
+</p>
+<p align="center">
+    To see the Moralis Database go to your server and click on Dashboard.
+</p>
+<p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188584463-ae5d1068-4867-4a6f-8c3b-d99330305e21.png" alt="Open Live Server">
     <br>
     <img src="https://user-images.githubusercontent.com/87430736/188595220-6e2a9f5c-9efc-4c98-8f10-cd0394e06dda.png" alt="Open Live Server">

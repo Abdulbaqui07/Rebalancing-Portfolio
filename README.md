@@ -56,5 +56,5 @@ As soon as the user logs in Moralis fetches all the on-chain data about that use
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188595848-9c55b47b-97e3-4643-a3c3-ebb358b3eeeb.png" alt="Open Live Server">
     <br>
-    <img src="https://user-images.githubusercontent.com/87430736/188585399-ed485635-6801-451f-9109-b55695751f73.png" alt="Open Live Server">
+    <img src="https://user-images.githubusercontent.com/87430736/188596404-e3143348-f33b-4fbc-a01c-f6fd2233de96.png" alt="Open Live Server">
 </p>

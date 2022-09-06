@@ -14,10 +14,12 @@ In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID f
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png" alt="Moralis Dashboard">
+    <br>
     Click on Settings below the server name of your server.
 </p>
 <p>
     <img src="https://user-images.githubusercontent.com/87430736/188580534-f9e49344-4d59-4b5d-8456-975aeb69377b.png" alt="Moralis Dashboard">
+    <br>
     Pick the server url and app id from the details page
 </p>
 

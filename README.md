@@ -13,7 +13,7 @@ Moralis.start({ serverUrl, appId });
 In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID from your Moralis Dashboard. Go to your Moralis Server Details:
 
 <p align="center">
-    <img width="200" src="https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png" alt="Material Bread logo">
+    <img src="https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png" alt="Material Bread logo">
 </p>
 
 ![image](https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png)

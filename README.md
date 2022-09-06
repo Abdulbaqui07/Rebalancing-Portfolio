@@ -11,7 +11,11 @@ const appId = "YOUR_APP_ID";
 Moralis.start({ serverUrl, appId });
 
 In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID from your Moralis Dashboard. Go to your Moralis Server Details:
+
 ![image](https://user-images.githubusercontent.com/87430736/188580317-16c21553-3e73-4819-a821-04e9738059ac.png)
+
+![image](https://user-images.githubusercontent.com/87430736/188583275-551db963-60ba-42c6-9051-8195f9967048.png)
+
 ![image](https://user-images.githubusercontent.com/87430736/188580534-f9e49344-4d59-4b5d-8456-975aeb69377b.png)
 
 3. Add Authentication

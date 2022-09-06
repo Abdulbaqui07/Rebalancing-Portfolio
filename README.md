@@ -7,7 +7,6 @@ The first step is to create an empty page we call index.html and main.js in the 
 Initialize your server using Moralis.start() function
 
 main.js
-```
 /* Moralis init code */
 const serverUrl = "https://xxxxx/server";
 const appId = "YOUR_APP_ID";

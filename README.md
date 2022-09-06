@@ -22,7 +22,7 @@ In order to initialize the SDK, you need to fetch Server (Dapp) URL and APP ID f
     <img src="https://user-images.githubusercontent.com/87430736/188580534-f9e49344-4d59-4b5d-8456-975aeb69377b.png" alt="Moralis Dashboard">
 </p>
 <p align="center">
-    Pick the server url and app id from the details page
+    Pick the server url and app id from the details page.
 </p>
 
 3. Add Authentication
@@ -53,15 +53,28 @@ As soon as the user logs in Moralis fetches all the on-chain data about that use
 </p>
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188584463-ae5d1068-4867-4a6f-8c3b-d99330305e21.png" alt="Open Live Server">
-    <br>
+</p>
+<p align="center">
+    Click on Access Database.
+</p>
+<p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188595220-6e2a9f5c-9efc-4c98-8f10-cd0394e06dda.png" alt="Open Live Server">
-    <br>
+</p>
+<p align="center">
+    Moralis Database.
 </p>
 
 7. Final view:
 
 <p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188595848-9c55b47b-97e3-4643-a3c3-ebb358b3eeeb.png" alt="Open Live Server">
-    <br>
+</p>
+<p align="center">
+    View of Dashboard.
+</p>
+<p align="center">
     <img src="https://user-images.githubusercontent.com/87430736/188596404-e3143348-f33b-4fbc-a01c-f6fd2233de96.png" alt="Open Live Server">
+</p>
+<p align="center">
+    All the merged addresses will be displayed on the dashboard.
 </p>

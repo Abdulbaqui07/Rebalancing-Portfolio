@@ -6,7 +6,7 @@ The first step is to create an empty page we call index.html and main.js in the 
 2. Initialize the SDK
 Initialize your server using Moralis.start() function
 
-main.js
+<a href="https://github.com/Abdulbaqui07/Rebalancing-Portfolio/blob/main/main.js">main.js</a>
 ```
 /* Moralis init code */
 const serverUrl = "https://xxxxx/server";
